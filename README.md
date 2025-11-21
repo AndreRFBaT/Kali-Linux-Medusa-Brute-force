@@ -67,7 +67,7 @@ Abaixo está a estrutura principal dos diretórios do projeto:
 
 ---
 
-##  Diretório `brute_force/`
+##  Diretório [`brute_force/`](https://github.com/AndreRFBaT/cybersecurity-Kali-Linux-Medusa-Brute-force/tree/main/brute_force)
 
 Contém scripts de **ataques de força bruta**, incluindo:
 - Geração e uso de wordlists  
@@ -78,7 +78,7 @@ Esses materiais demonstram a importância de políticas de senha fortes e mecani
 
 ---
 
-##  Diretório `keylogger/`
+## Diretório [`keylogger/`](https://github.com/AndreRFBaT/cybersecurity-Kali-Linux-Medusa-Brute-force/tree/main/keylogger)
 
 Inclui um **keylogger educacional**, desenvolvido para demonstrar técnicas usadas por malwares para capturar entradas do teclado.
 
@@ -91,7 +91,7 @@ Tudo implementado apenas para estudos e testes em ambiente controlado.
 
 ---
 
-##  Diretório `malware/` (Ransomware Didático)
+##  Diretório [`malware/` (Ransomware Didático)](https://github.com/AndreRFBaT/cybersecurity-Kali-Linux-Medusa-Brute-force/tree/main/malware)
 
 Neste diretório estão os arquivos referentes a um **ransomware educativo**, incluindo:
 - Script de criptografia  
