@@ -1,0 +1,6 @@
+1. Vai ficar em execução no background
+2. Toda vez que o usuário digitar, o programa vai capturar a tecla
+3. O que for digitado vai ser armazenado em um arquivo .txt
+4. O arquivo vai mostrar tudo o que foi digitado, de forma sequencial.
+
+
